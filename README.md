@@ -1,6 +1,7 @@
 # CS-300
 SNHU CS-300
 
+
 -What problem were you solving in the projects for this course?
 The problem we were solving in the projects for this course was creating pseudo code to implement a simple program to search for courses and print the required information.
 
